@@ -1,5 +1,7 @@
 # E-Commerce Business Dashboard
 
+![Dashboard](Images/Dashboard.png)
+
 ## Overview
 
 This Power BI dashboard provides insights into key performance metrics for an e-commerce business. It enables data-driven decision-making by visualizing sales trends, customer behavior, and operational performance.
