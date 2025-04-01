@@ -20,3 +20,7 @@ To use this Power BI dashboard, ensure you have Power BI Desktop installed.
 
 ```bash
 Download Power BI from https://powerbi.microsoft.com/
+
+## Project
+To view the original dashboard, please use the file `ECOM.pbix`.
+
