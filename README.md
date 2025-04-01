@@ -14,12 +14,11 @@ This Power BI dashboard provides insights into key performance metrics for an e-
 - **Marketing Metrics:** Assess the effectiveness of campaigns and traffic sources.
 - **Operational Efficiency:** Monitor order fulfillment times and return rates.
 
-## Installation
-
-To use this Power BI dashboard, ensure you have Power BI Desktop installed.
-
 ## Project
 To view the original dashboard, please use the file `ECOM.pbix`.
+
+## Installation
+To use this Power BI dashboard, ensure you have Power BI Desktop installed.
 
 ```bash
 Download Power BI from https://powerbi.microsoft.com/
